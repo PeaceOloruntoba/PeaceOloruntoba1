@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A Frontend Developer and Copy Writer</h3>
 
-<br>- 👨‍💻  I’m currently working on projects with Typescript<br>- 💬  Ask me about Frontend Development<br><br>- 👨‍💻 All of my projects are available in my [portfolio](https://portfolio-vercel-puce.vercel.app/)<br>- 🤝  Looking forward to collaboration on react projects <br>- 📫  Reach me by email **chrisidoko0017@gmail.com** or dm me on <a href="https://twitter.com/Chris_devxo">Twitter</a><br>- ⚡  Fun fact I love building stuffs and am an excellent team player
+<br>- 👨‍💻  I’m currently working on projects with Typescript<br>- 💬  Ask me about Frontend Development<br>- 👨‍💻 All of my projects are available in my [portfolio](https://portfolio-vercel-puce.vercel.app/)<br>- 🤝  Looking forward to collaboration on react projects <br>- 📫  Reach me by email **chrisidoko0017@gmail.com** or dm me on <a href="https://twitter.com/Chris_devxo">Twitter</a><br>- ⚡  Fun fact I love building stuffs and am an excellent team player
 
 
 ## 🌐 Socials:
